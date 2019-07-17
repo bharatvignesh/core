@@ -1,0 +1,1 @@
+module.exports.CouchDB = require('./lib/client/couchdb');
