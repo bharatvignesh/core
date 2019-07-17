@@ -1,5 +1,5 @@
 {
-  "name": "core=lib",
+  "name": "core-lib",
   "version": "0.0.1",
   "description": "core lib for 3rd parties connection",
   "main": "index.js",
