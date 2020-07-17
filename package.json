@@ -9,7 +9,7 @@
     "moment": "2.24.0",
     "moment-timezone": "0.5.26",
     "nano": "8.1.0",
-    "lodash": "4.17.14",
+    "lodash": "4.17.19",
     "node-uuid": "1.4.8"
   }
 }
